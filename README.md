@@ -1,6 +1,6 @@
 # Сайт : mashina.kg
 
-ссылка для git clone: git@github.com:mariiisoull/First_parser.git
+ссылка для git clone: git@github.com:mariiisoull/parser_project.git
 
 Скачивание библиотек и расширений: pip install requirements.txt
 
