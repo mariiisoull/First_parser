@@ -1,3 +1,10 @@
+# Сайт : mashina.kg
+
+ссылка для git clone: git@github.com:mariiisoull/First_parser.git
+
+Скачивание библиотек и расширений: pip install requirements.txt
+
+для запуска в терминале: python main.py
 
 
 
@@ -5,18 +12,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# Задание: парсинг данных
+## Задание: парсинг данных
 
 ## Цель
 
